@@ -1,7 +1,7 @@
 [{
 
-"Text_greeting":"Hello fintech",
-"Student_good":false,
-"Count":33
+"Text_greeting":"Hello fintech, nice to meet you",
+"Student_good":true,
+"Date":"01-04-2024"
 
 }]
